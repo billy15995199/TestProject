@@ -131,20 +131,34 @@ https://jsfiddle.net/egp8oba5/2/
  http://localhost:3000/
 
 
+(Date.parse( 時間 ) ).valueOf()
+將時間轉成數字
 
 
 
+agile敏捷開發法
 
 
 
+arr.filter((item, index) => arr.indexOf(item) === index);
+arry去除相同元素
 
 
 
+try  catch  通常用於他人套件除錯
+https://jsfiddle.net/qn2Lesj0/1/
+
+
+字串語法`` 也可以用來換行
+https://jsfiddle.net/g1aL5pko/
 
 
 
+7/12
+https://jsfiddle.net/t1087csb/
 
+Promise
+https://jsfiddle.net/qpre140u/1/
 
-
-
-
+53題
+https://jsfiddle.net/bkcj8tx4/1/
